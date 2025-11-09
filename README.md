@@ -8,7 +8,7 @@
 * API Provides Subtitles in 50+ Languages!
 
 
-![Screenshot](https://raw.githubusercontent.com/kunwarxshashank/uembed/refs/heads/main/screenshots/ss1.png)
+![Screenshot](https://raw.githubusercontent.com/kunwarxshashank/uembed/refs/heads/main/screenshot/ss1.png)
 
-![Screenshot](https://raw.githubusercontent.com/kunwarxshashank/uembed/refs/heads/main/screenshots/ss2.png)
+![Screenshot](https://raw.githubusercontent.com/kunwarxshashank/uembed/refs/heads/main/screenshot/ss2.png)
 
